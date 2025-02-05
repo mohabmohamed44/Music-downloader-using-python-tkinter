@@ -12,7 +12,7 @@
 - requests
 
 #### Install requirements
-* ```pip install -r requirements.txt```
+ ```pip install -r requirements.txt```
 
 ### Usage
 1. Run the `main.py` script.
